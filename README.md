@@ -1,4 +1,4 @@
-# SDC SNIST x Aleph Zero India 🚀
+# SDC SNIST x Aleph Zero 🚀
 
 ## 🔥 What's covered in event ?
 - 🔗 **Blockchain & Web3 Fundamentals**
