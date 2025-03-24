@@ -1,6 +1,6 @@
 # SDC SNIST x Aleph Zero India 🚀
 
-## 🔥 What's in Store?
+## 🔥 What's covered in event ?
 - 🔗 **Blockchain & Web3 Fundamentals**
 - 🔗 **Intro to Aleph Zero Blockchain**
 - 🛠 **Hands-on Quests & Rewards/NFTs!**
